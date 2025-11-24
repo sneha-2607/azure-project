@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-azure-project",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76fe1553-5162-46d9-9626-d03f5779a035",
+		"tenantId": "0d38d32b-6911-415d-95ec-a0e95172def2"
+	}
+}
